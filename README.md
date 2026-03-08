@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Learner</h3>
+<h3 align="center">Aspiring Software Developer | MERN Stack Developer</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 BSc IT Graduate (2024)
 - 💼 Currently working at **RBL Bank**
 - 💻 Learning **MERN Stack Development**
-- 🎯 Goal: Become **Software Engineer at Deloitte by 2026**
+- 🎯 Goal: Become **Software Engineer at Deloitte by 2027**
 - 🚀 Currently building **Full Stack Projects**
 
 ---
@@ -21,17 +21,13 @@
 - C++
 
 🌐 Frontend  
-- HTML  
-- CSS  
-- React
+- HTML  | CSS | React
 
 ⚙️ Backend  
-- Node.js  
-- Express.js
+- Node.js  |  Express.js
 
 🗄️ Database  
-- MongoDB  
-- SQL
+- MongoDB  | SQL
 
 ---
 
@@ -50,8 +46,8 @@
 ### 🌐 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/YOURPROFILE
-- Email: yourmail@gmail.com
+- Email: shubhamsharma3127@gmail.com
 
 ---
 
-⭐ From [Shubham Sharma](https://github.com/YOURUSERNAME)
+⭐ From [Shubham Sharma](https://github.com/shubham0653)
