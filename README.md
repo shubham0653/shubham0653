@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
+<h3 align="center">Aspiring Software Developer | MERN Stack Learner</h3>
 
-<!--
-**shubham0653/shubham0653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc IT Graduate (2024)
+- 💼 Currently working at **RBL Bank**
+- 💻 Learning **MERN Stack Development**
+- 🎯 Goal: Become **Software Engineer at Deloitte by 2026**
+- 🚀 Currently building **Full Stack Projects**
+
+---
+
+### 🛠️ Tech Stack
+
+💻 Languages  
+- JavaScript  
+- Python  
+- C++
+
+🌐 Frontend  
+- HTML  
+- CSS  
+- React
+
+⚙️ Backend  
+- Node.js  
+- Express.js
+
+🗄️ Database  
+- MongoDB  
+- SQL
+
+---
+
+### 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
+
+---
+
+### 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/YOURPROFILE
+- Email: yourmail@gmail.com
+
+---
+
+⭐ From [Shubham Sharma](https://github.com/YOURUSERNAME)
