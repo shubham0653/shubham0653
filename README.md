@@ -1,53 +1,110 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">Aspiring Software Developer | MERN Stack Developer</h3>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 BSc IT Graduate (2024)
-- 💼 Currently working at **RBL Bank**
-- 💻 Learning **MERN Stack Development**
-- 🎯 Goal: Become **Software Engineer at Deloitte by 2027**
-- 🚀 Currently building **Full Stack Projects**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;JavaScript+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-
-💻 Languages  
-- JavaScript  
-- Python  
-- C++
-
-🌐 Frontend  
-- HTML  | CSS | React
-
-⚙️ Backend  
-- Node.js  |  Express.js
-
-🗄️ Database  
-- MongoDB  | SQL
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shubham0653&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/shubham0653?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/shubham0653?label=Stars&style=for-the-badge" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 **BSc IT Graduate (2024)**  
+  <img src="https://img.shields.io/badge/Education-BSc%20IT-blue?style=flat-square"/>
+
+- 💼 **Currently working at RBL Bank**  
+  <img src="https://img.shields.io/badge/Company-RBL%20Bank-red?style=flat-square"/>
+
+- 💻 **Learning MERN Stack Development**  
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+
+- 🎯 **Goal:** Software Engineer at **Deloitte by 2027**
+
+- 🚀 **Building Full Stack Projects**
+
+- 📚 **Currently improving Data Structures & Algorithms**
 
 ---
 
-### 🔥 GitHub Streak
+# 🛠️ Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,python,cpp" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+# 📊 GitHub Stats
 
-- LinkedIn: https://linkedin.com/in/YOURPROFILE
-- Email: shubhamsharma3127@gmail.com
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubham0653&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham0653&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-⭐ From [Shubham Sharma](https://github.com/shubham0653)
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shubham0653&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:shubhamsharma3127@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+  <p align="center">
+💻 Always learning • 🚀 Always building • 🔥 Always improving
+<br><br>
+⭐ If you like my work, consider giving a star to my repositories!
+<br><br>
+🚀 Built with passion by - <a href="https://github.com/shubham0653"><b>Shubham Sharma</b></a>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
