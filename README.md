@@ -25,10 +25,8 @@
 - 💼 **Currently working at RBL Bank**  
   <img src="https://img.shields.io/badge/Company-RBL%20Bank-red?style=flat-square"/>
 
-- 💻 **Learning MERN Stack Development**  
+- 💻 **MERN Stack Development**  
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-
-- 🎯 **Goal:** Software Engineer at **Deloitte by 2027**
 
 - 🚀 **Building Full Stack Projects**
 
@@ -45,12 +43,12 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
 </p>
 
 ### 🗄️ Database
@@ -73,14 +71,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shubham0653&theme=tokyonight" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
