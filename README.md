@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack Developer | Web Designer</h3>
+<h3 align="center">Software Developer | MERN Stack Developer | Web Designer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;JavaScript+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
